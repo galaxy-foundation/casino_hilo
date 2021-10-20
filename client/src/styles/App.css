@@ -1,0 +1,45 @@
+.App-header {
+  width: 100%;
+  height: 105px;
+  background-image: url("../img/header.png");
+  background-size: 100% 100%;
+  position: fixed;
+
+}
+
+
+.back-image {
+  padding-top: 12%;
+  padding-bottom: 50px;
+  background-image: url("../img/back.jpg");
+  background-size: 100% 100%;
+
+}
+.back-image1 {
+  padding-top: 23vh;
+  padding-bottom: 50px;
+  background-image: url("../img/back3.jfif");
+  background-size: 100% 100%;
+}
+.back-image3 {
+  padding-top: 23vh;
+  padding-bottom: 50px;
+  background-image: url("../img/back.jpg");
+  background-size: 100% 100%;
+}
+.back-image2 {
+  padding-top: 23vh;
+  padding-bottom: 50px;
+  background-image: url("../img/header.webp");
+  background-size: 100% 100%;
+}
+
+
+.App-container {
+  width: 30%;
+  margin-left: 35%;
+  background-color:rgba(0, 0, 0, 0.637);
+  display: -webkit-box;
+  border-radius: 10px;
+  display: block;
+}

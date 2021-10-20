@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+div.footer
+{
+    width: 100%;
+    background-color: #283343;
+    color: white;
+    font-size: 26px;
+    font-family: 'Rampart One', cursive;    
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
